@@ -1,5 +1,5 @@
 # Nextcloud-auf-Ubuntu-Server24.02.2
-#Festplatte
+##Festplatte
 
 1. Festplatten anzeigen lassen (mmcblk0 = SD-Card, sda, sdb, sdc = USB-Festplatten)
    lsblk
